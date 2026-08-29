@@ -511,8 +511,4 @@ The long-term objective of DocAI-RAG is to explore how modern AI systems can com
 * Evaluation
 * AI application engineering
 
-The project will be improved incrementally, with each version focusing on measurable improvements in retrieval quality, response quality, reliability, and system design.
-
-
-
 ⭐ If you find this project useful, consider giving the repository a star.
